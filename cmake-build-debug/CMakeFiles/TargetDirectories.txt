@@ -1,0 +1,3 @@
+/mnt/c/Users/ekinn/CLionProjects/RandomShapes/cmake-build-debug/CMakeFiles/RandomShapes.dir
+/mnt/c/Users/ekinn/CLionProjects/RandomShapes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ekinn/CLionProjects/RandomShapes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
